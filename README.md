@@ -80,7 +80,7 @@ Movida a café preto, rock e games. Determinada a construir essa nova versão de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilamachadodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600&v=2"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilamachadodev&theme=tokyonight"/>
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=camilamachadodev&theme=tokyonight&hide_border=true"/>
 
@@ -88,7 +88,7 @@ Movida a café preto, rock e games. Determinada a construir essa nova versão de
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamachadodev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&v=2"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camilamachadodev&theme=tokyonight"/>
 
 </div>
 
