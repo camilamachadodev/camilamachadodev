@@ -80,15 +80,15 @@ Movida a café preto, rock e games. Determinada a construir essa nova versão de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camilamachadodev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilamachadodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=camilamachadodev&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=camilamachadodev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camilamachadodev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamachadodev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
